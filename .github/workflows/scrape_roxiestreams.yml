@@ -25,4 +25,6 @@ jobs:
         run: python fetch_roxiestreams.py
 
       - name: Commit and push changes
-        run: |\n          git config --global user.name \"github-actions[bot]\"\n          git config --global user.email \"github-actions[bot]@users.noreply.github.com\"\n          git add roxiestreams.m3u8\n          git commit -m \"Update roxiestreams.m3u8\"\n          git push\n        env:\n          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |\n          git config --global user.name "github-actions[bot]"\n          git config --global user.email "github-actions[bot]@users.noreply.github.com"\n          git add roxiestreams.m3u8\n          git commit -m "Update roxiestreams.m3u8" || echo "No changes to commit"\n          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
