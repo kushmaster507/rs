@@ -1,34 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=1E3C5C&bg=4C4C4D&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRMk1UVTVYMnhmYURFMVgyRmtMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTJNVFUxWDJ4ZmFERTFYMkpoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1",Real Sociedad vs Villarreal
-https://v3.delgadaqatar.com/espndeportes.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.msg.com/wp-content/uploads/2023/09/NYK2324_IndyOnSale_GeneralPublicOnSale_Web_EDPImage_Pistons.jpg?w=500",Pistons vs Knicks
-https://v5.delgadaqatar.com/nba2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.wrestlezone.com/wp-content/uploads/sites/8/2019/10/wwe-raw-logo-2019.jpg",WWE RAW (Stream 1)
-https://v3.delgadaqatar.com/prettyinwwe.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.wrestlezone.com/wp-content/uploads/sites/8/2019/10/wwe-raw-logo-2019.jpg",WWE RAW (Stream 2)
-https://v4.delgadaqatar.com/wwe.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=0a2240&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2ZEdWaGJWOXNiMmR2Y3k5amJHbHdjR1Z5Y3k1d2JtY19kejA1TmpBbWFEMHhNRGd3Sm5CaFpEMHlNakFtZEhKcGJUMWpiMnh2Y2labWFYUTlabWxzYkEmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTBNVFJmYkY5b01UVmZZV1F1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1qSXdKblJ5YVcwOVkyOXNiM0ltWm1sMFBXWnBiR3c&kg=1",Heat vs Clippers
 https://v4.delgadaqatar.com/nba5.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=002b5c&bg=236192&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qbGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UWmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Timberwolves vs Wizards
-https://v5.delgadaqatar.com/nba.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=5d76a9&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2YzNSaGRHbHZibDlzYjJkdmN5OW9iM1Z6ZEc5dUxYSnZZMnRsZEhOZll5NXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB5TWpBbWRISnBiVDFqYjJ4dmNpWm1hWFE5Wm1sc2JB&kg=1",Grizzlies vs Rockets (Stream 1)
-https://v3.delgadaqatar.com/nba4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=5d76a9&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2YzNSaGRHbHZibDlzYjJkdmN5OW9iM1Z6ZEc5dUxYSnZZMnRsZEhOZll5NXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB5TWpBbWRISnBiVDFqYjJ4dmNpWm1hWFE5Wm1sc2JB&kg=1",Grizzlies vs Rockets (Stream 2)
-https://v2.delgadaqatar.com/nba3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJM6tG.png",Minnesota Vikings vs Los Angeles Rams (Stream 1)
-https://v2.delgadaqatar.com/prettyinpunk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJM6tG.png",Minnesota Vikings vs Los Angeles Rams (Stream 2)
-https://v5.delgadaqatar.com/nfl.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=1d428a&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qZGZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EaGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Warriors vs Raptors (Stream 1)
 https://v3.delgadaqatar.com/nba3.m3u8
@@ -36,10 +9,34 @@ https://v3.delgadaqatar.com/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=1d428a&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qZGZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EaGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Warriors vs Raptors (Stream 2)
 https://v2.delgadaqatar.com/nba3.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.wrestlezone.com/wp-content/uploads/sites/8/2019/10/wwe-raw-logo-2019.jpg",WWE RAW (Stream 1)
+https://v3.delgadaqatar.com/prettyinwwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wrestlezone.com/wp-content/uploads/sites/8/2019/10/wwe-raw-logo-2019.jpg",WWE RAW (Stream 2)
+https://v4.delgadaqatar.com/wwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJM6tG.png",Minnesota Vikings vs Los Angeles Rams (Stream 1)
+https://v2.delgadaqatar.com/prettyinpunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJM6tG.png",Minnesota Vikings vs Los Angeles Rams (Stream 2)
+https://v5.delgadaqatar.com/nfl.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=6cabdd&bg=e30613&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2ZEdWaGJWOXNiMmR2Y3k5dFlXNWphR1Z6ZEdWeUxXTnBkSGt0Wm1NdWNHNW5QM2M5T1RZd0ptZzlNVEE0TUNad1lXUTlNakl3Sm5SeWFXMDlZMjlzYjNJbVptbDBQV1pwYkd3Jm1hcmstYWxpZ249bWlkZGxlLGxlZnQmbWFyazY0PWFIUjBjSE02THk5bmJpMXBiV2Q0TG1aMVltOHVkSFl2WVhOelpYUnpMM1EyTVRnd1gyeGZhREUxWDJGbUxuQnVaejkzUFRrMk1DWm9QVEV3T0RBbWNHRmtQVEl5TUNaMGNtbHRQV052Ykc5eUptWnBkRDFtYVd4cw&kg=1",Brentford vs Manchester City
+https://v3.delgadaqatar.com/espndeportes.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=002b5c&bg=236192&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qbGZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UWmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Timberwolves vs Wizards
+https://v5.delgadaqatar.com/nba.m3u8
+
 #EXTINF:-1 tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-12/sporting-news-wwc-23-where-to-watch-pre-d4fd2e92-860d-4f63-9214-9d3203abb3ef.png?h=920929c4&itok=IhF6L7KV",Spurs vs Lakers (Stream 1)
 https://v3.delgadaqatar.com/nba4.m3u8
 
 #EXTINF:-1 tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-12/sporting-news-wwc-23-where-to-watch-pre-d4fd2e92-860d-4f63-9214-9d3203abb3ef.png?h=920929c4&itok=IhF6L7KV",Spurs vs Lakers (Stream 2)
+https://v2.delgadaqatar.com/nba3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=5d76a9&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2YzNSaGRHbHZibDlzYjJkdmN5OW9iM1Z6ZEc5dUxYSnZZMnRsZEhOZll5NXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB5TWpBbWRISnBiVDFqYjJ4dmNpWm1hWFE5Wm1sc2JB&kg=1",Grizzlies vs Rockets (Stream 1)
+https://v3.delgadaqatar.com/nba4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=5d76a9&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2YzNSaGRHbHZibDlzYjJkdmN5OW9iM1Z6ZEc5dUxYSnZZMnRsZEhOZll5NXdibWNfZHowNU5qQW1hRDB4TURnd0puQmhaRDB5TWpBbWRISnBiVDFqYjJ4dmNpWm1hWFE5Wm1sc2JB&kg=1",Grizzlies vs Rockets (Stream 2)
 https://v2.delgadaqatar.com/nba3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TW243DG.png",WWE NXT (Stream 1)
@@ -48,5 +45,8 @@ https://v3.delgadaqatar.com/prettyinwwe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TW243DG.png",WWE NXT (Stream 2)
 https://v4.delgadaqatar.com/wwe.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=6cabdd&bg=e30613&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2ZEdWaGJWOXNiMmR2Y3k5dFlXNWphR1Z6ZEdWeUxXTnBkSGt0Wm1NdWNHNW5QM2M5T1RZd0ptZzlNVEE0TUNad1lXUTlNakl3Sm5SeWFXMDlZMjlzYjNJbVptbDBQV1pwYkd3Jm1hcmstYWxpZ249bWlkZGxlLGxlZnQmbWFyazY0PWFIUjBjSE02THk5bmJpMXBiV2Q0TG1aMVltOHVkSFl2WVhOelpYUnpMM1EyTVRnd1gyeGZhREUxWDJGbUxuQnVaejkzUFRrMk1DWm9QVEV3T0RBbWNHRmtQVEl5TUNaMGNtbHRQV052Ykc5eUptWnBkRDFtYVd4cw&kg=1",Brentford vs Manchester City
+#EXTINF:-1 tvg-logo="https://img.msg.com/wp-content/uploads/2023/09/NYK2324_IndyOnSale_GeneralPublicOnSale_Web_EDPImage_Pistons.jpg?w=500",Pistons vs Knicks
+https://v5.delgadaqatar.com/nba2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=1E3C5C&bg=4C4C4D&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRMk1UVTVYMnhmYURFMVgyRmtMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTJNVFUxWDJ4ZmFERTFYMkpoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1",Real Sociedad vs Villarreal
 https://v3.delgadaqatar.com/espndeportes.m3u8
