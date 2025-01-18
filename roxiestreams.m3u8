@@ -3,26 +3,23 @@
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=w5d90msup2e8pm0exlwiings_image-header_pDach_1736293438000&quality=70",Bahrain Masters
 https://v3.delgadaqatar.com/darts.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/programs/a4909609-3031-46ee-96f4-de443f47e5ec/16x9/1280x720_20190907150533.jpg",Puebla vs Atlético San Luis
-https://v2.delgadaqatar.com/foxdeportes.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fubo.tv/news/wp-content/uploads/2024/12/How_to_Stream_New_York_Knicks_at_Minnesota_Timberwolves_Live_TV_Channel.png",Timberwolves vs Knicks
 https://v4.delgadaqatar.com/nba2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=007a33&bg=0077c0&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1ERmZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qQmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Magic vs Celtics
-https://v3.delgadaqatar.com/nba.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=c4ced4&bg=5d76a9&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qVmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Grizzlies vs Spurs
-https://v3.delgadaqatar.com/nba.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/programs/a4909609-3031-46ee-96f4-de443f47e5ec/16x9/1280x720_20190907150533.jpg",Puebla vs Atlético San Luis
+https://v4.delgadaqatar.com/tudn.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=00471b&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UVmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qZGZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Raptors vs Bucks
 https://v2.delgadaqatar.com/nba6.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=776F27&bg=287050&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReE56azFPVjlzWDJneE5WOWtaQzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQSZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReE56azNPVjlzWDJneE5WOWhZUzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQQ&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Al Taawon vs Al Nassr
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=002b5c&bg=061922&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM056WTJYMnhmYURFMVgyRmpMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTBNamhmYkY5b01UVmZZV1V1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1qSXdKblJ5YVcwOVkyOXNiM0ltWm1sMFBXWnBiR3c&kg=1",Jazz vs Pelicans
+https://v4.delgadaqatar.com/nba3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=178555&bg=2C3C6C&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01EZ3hYMnhmYURFMVgySmlMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTJNVFExWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Espanyol vs Real Valladolid
 https://v4.delgadaqatar.com/tudn.m3u8
 
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/combiner/i?img=%2Fespn360%2Fimages%2Fso%2Fliga_mx%2F3225962.jpg&w=640&h=360&1515195450428",Necaxa vs Chivas
-https://v2.delgadaqatar.com/foxdeportes.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=cw5ztihvm6m6ig7zmivtvi09e_image-header_pRow_1735815344000",Frankfurt vs Dortmund
+https://v2.delgadaqatar.com/mix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCoGNxC.png",WWE Smackdown (Stream 1)
 https://v3.delgadaqatar.com/prettyinpunk.m3u8
@@ -30,29 +27,20 @@ https://v3.delgadaqatar.com/prettyinpunk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCoGNxC.png",WWE Smackdown (Stream 2)
 https://v2.delgadaqatar.com/prettyinwwe.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=00788c&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1ETmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2ZEdWaGJWOXNiMmR2Y3k5RFNHOXlibVYwYzE5UWNtbHRZWEo1TG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1",Hornets vs Bulls
+https://v4.delgadaqatar.com/nba4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=007a33&bg=0077c0&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1ERmZiRjlvTVRWZllXSXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qQmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Magic vs Celtics
+https://v3.delgadaqatar.com/nba.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=473166&bg=2D446C&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReU1UQTNOMTlzWDJneE5WOWhZaTV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQSZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRMk16QXhYMnhmYURsZllXRXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Tigres UANL vs Mazatlán
+https://v2.delgadaqatar.com/foxdeportes.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DBIpiR.png",Houston Texans vs Kansas City Chiefs (Stream 1)
 https://v2.delgadaqatar.com/prettyinpunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DBIpiR.png",Houston Texans vs Kansas City Chiefs (Stream 2)
 https://v5.delgadaqatar.com/nfl.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=002b5c&bg=061922&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM056WTJYMnhmYURFMVgyRmpMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTBNamhmYkY5b01UVmZZV1V1Y0c1blAzYzlPVFl3Sm1nOU1UQTRNQ1p3WVdROU1qSXdKblJ5YVcwOVkyOXNiM0ltWm1sMFBXWnBiR3c&kg=1",Jazz vs Pelicans
-https://v4.delgadaqatar.com/nba3.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=cw5ztihvm6m6ig7zmivtvi09e_image-header_pRow_1735815344000",Frankfurt vs Dortmund
-https://v2.delgadaqatar.com/mix.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=178555&bg=2C3C6C&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01EZ3hYMnhmYURFMVgySmlMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTluYmkxcGJXZDRMbVoxWW04dWRIWXZZWE56WlhSekwzUTJNVFExWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Espanyol vs Real Valladolid
-https://v2.delgadaqatar.com/foxdeportes.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=00788c&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1ETmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OXBiV2Q0TG1aMVltOHVkSFl2ZEdWaGJWOXNiMmR2Y3k5RFNHOXlibVYwYzE5UWNtbHRZWEo1TG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1",Hornets vs Bulls
-https://v4.delgadaqatar.com/nba4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=473166&bg=2D446C&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReU1UQTNOMTlzWDJneE5WOWhZaTV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQSZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRMk16QXhYMnhmYURsZllXRXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Tigres UANL vs Mazatlán
-https://v4.delgadaqatar.com/tudn.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=007ac1&bg=0053bc&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qWmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EVmZiRjlvTVRWZllXNHVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Thunder vs Mavericks
-https://v5.delgadaqatar.com/nba7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Q5akoo.png",Washington Commanders vs Detroit Lions (Stream 1)
 https://v3.delgadaqatar.com/prettyinpunkk.m3u8
@@ -60,17 +48,29 @@ https://v3.delgadaqatar.com/prettyinpunkk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Q5akoo.png",Washington Commanders vs Detroit Lions (Stream 2)
 https://v2.delgadaqatar.com/nfl.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=552583&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1USmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01qYzNYMnhmYURFMVgyRmxMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHM&kg=1 width=",Nets vs Lakers (Stream 1)
-https://v5.delgadaqatar.com/nba8.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=552583&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1USmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01qYzNYMnhmYURFMVgyRmxMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHM&kg=1 width=",Nets vs Lakers (Stream 2)
-https://v2.delgadaqatar.com/nba6.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=0e2240&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UUmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EWmZiRjlvTVRWZllXVXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Nuggets vs Heat
-https://v2.delgadaqatar.com/nba5.m3u8
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/combiner/i?img=%2Fespn360%2Fimages%2Fso%2Fliga_mx%2F3225962.jpg&w=640&h=360&1515195450428",Necaxa vs Chivas
+https://v4.delgadaqatar.com/tudn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyMHBlX.jpeg",UFC 311: Makhachev vs. Tsarukyan 2 (Stream 1)
 https://v2.delgadaqatar.com/ufc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyMHBlX.jpeg",UFC 311: Makhachev vs. Tsarukyan 2 (Stream 2)
 https://v4.delgadaqatar.com/ufcalt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=007ac1&bg=0053bc&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qWmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EVmZiRjlvTVRWZllXNHVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Thunder vs Mavericks
+https://v5.delgadaqatar.com/nba7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=552583&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1USmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01qYzNYMnhmYURFMVgyRmxMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHM&kg=1 width=",Nets vs Lakers (Stream 1)
+https://v5.delgadaqatar.com/nba8.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=552583&bg=000000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1USmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRM01qYzNYMnhmYURFMVgyRmxMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHM&kg=1 width=",Nets vs Lakers (Stream 2)
+https://v2.delgadaqatar.com/nba6.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=776F27&bg=287050&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReE56azFPVjlzWDJneE5WOWtaQzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQSZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReE56azNPVjlzWDJneE5WOWhZUzV3Ym1jX2R6MDVOakFtYUQweE1EZ3dKbkJoWkQweU1qQW1kSEpwYlQxamIyeHZjaVptYVhROVptbHNiQQ&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476",Al Taawon vs Al Nassr
+https://v2.delgadaqatar.com/foxdeportes.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=000000&bg=0e2240&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UUmZiRjlvTVRWZllXUXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1EWmZiRjlvTVRWZllXVXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Nuggets vs Heat
+https://v2.delgadaqatar.com/nba5.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=c4ced4&bg=5d76a9&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1qVmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdyZtYXJrLWFsaWduPW1pZGRsZSxsZWZ0Jm1hcms2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNRME1UTmZiRjlvTVRWZllXTXVjRzVuUDNjOU9UWXdKbWc5TVRBNE1DWndZV1E5TWpJd0puUnlhVzA5WTI5c2IzSW1abWwwUFdacGJHdw&kg=1",Grizzlies vs Spurs
+https://v3.delgadaqatar.com/nba.m3u8
